@@ -1,0 +1,10 @@
+Private Sub AutoFitContentsForAllTables()
+  If ActiveDocument.Tables.Count > 0 Then
+    Dim objTable As Object
+
+    Application.Browser.Target = wdBrowseTable
+    For Each objTable In ActiveDocument.Tables
+      objTable.AutoFitBehavior (wdAutoFitContent)
+    Next
+  End If
+End Sub
