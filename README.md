@@ -1,6 +1,31 @@
-<object data="research-simulation-project-report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="research-simulation-project-report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/tylanbm/research-simulation-project/blob/main/research-simulation-project-report.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+# DevOps Research Simulation Project - Banking
 
+Due to the limitation of markdown, the report has been listed here in .jpg format.
+
+For a clearer viewing experience, you may download the .pdf format here: [Project Report PDF](research-simulation-project-report.pdf)
+
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_1.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_2.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_3.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_4.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_5.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_6.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_7.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_8.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_9.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_10.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_11.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_12.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_13.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_14.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_15.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_16.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_17.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_18.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_19.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_20.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_21.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_22.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_23.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_24.jpg)
+![Page of report](/research-simulation-project-report/research-simulation-project_report1024_25.jpg)
