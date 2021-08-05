@@ -1,3 +1,5 @@
+//Written by github.com/tylanbm
+
 import java.lang.Math;
 import java.util.Arrays;
 import java.io.*;  
