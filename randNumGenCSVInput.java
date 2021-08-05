@@ -149,7 +149,7 @@ public class randNumGenCSVInput {
 
     try{
     //parsing a CSV file into Scanner class constructor  
-    File file = new File("C://Users//tylan//Dropbox//My PC (LAPTOP-94ABS753)//Desktop//CSC446A3//Logger1RandomData.csv");
+    File file = new File("<path of file including input data>");
     //File file = new File("Logger1RandomData.csv");
     Scanner sc = new Scanner(file); 
       
